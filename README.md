@@ -7,36 +7,27 @@
 
 ## 👨‍💻 About Me
 
-I'm Imam Hossain, a results-driven **Full-Stack Developer** and **IT Head** with 7+ years of experience in building scalable ERP platforms, enterprise APIs, and cross-platform mobile apps.
+I'm Nadim Mahmud, a results-driven **Full-Stack Developer** with more than a years of experience in building scalable ERP platforms and enterprise APIs.
 
 ### 🔧 Specialties:
 - ERP Modules: HR, Procurement, Sales, Inventory, Compliance, Costing  
-- Full-cycle backend systems in **Django** and **Laravel**  
-- Mobile app development with **Android (Java/Kotlin)**  
-- **DevOps** workflows, Docker, AWS, CI/CD pipelines, and Linux server management
-
-### 🎯 Career Highlights:
-- 🚀 Launched and optimized **200+ marketing campaigns**  
-- 🏗 Developed **10+ enterprise-grade apps and systems**  
-- 📱 Delivered Android apps for **task tracking** and **inventory management**
-
+- Full-cycle backend systems in **Django**  
+- Docker and production-grade deployments
+  
 ---
 
 ## 🛠 Tech Skills
 
 ### 💻 Languages & Frameworks
-- **Backend**: Python (Django, DRF), PHP (Laravel)  
-- **Mobile**: Android (Java/Kotlin), Firebase, Retrofit  
-- **Frontend**: Blade, HTML/CSS, JavaScript (basic)
+- **Backend**: C/C++, Python (Django, DRF)  
+- **Frontend**: HTML/CSS, JavaScript (basic), Bootstrap
 
 ### 🗃️ Databases
-- PostgreSQL, MySQL, SQLite, Redis, Realm
+- PostgreSQL, MySQL, SQLite
 
 ### ☁️ DevOps & Cloud
-- Docker, Docker Compose  
-- AWS (EC2, S3, RDS)  
-- GitHub Actions, GitLab CI/CD  
-- NGINX, Apache, Linux Server Admin
+- Docker, Docker Compose    
+- GitHub Actions
 
 ---
 
