@@ -1,7 +1,7 @@
 
-# Hi 👋, I'm Imam Hossain
+# Hi 👋, I'm Nadim Mahmud
 
-🚀 **Full-Stack Developer** | Django • Laravel • Android | DevOps & Cloud | ERP Systems
+🚀 **Full-Stack Developer** | Python • Django • DRF
 
 ---
 
@@ -58,7 +58,7 @@ I'm Imam Hossain, a results-driven **Full-Stack Developer** and **IT Head** with
 
 ## 🧰 Tools & Technologies
 
-<p align="left">
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="Android"/>
@@ -74,10 +74,10 @@ I'm Imam Hossain, a results-driven **Full-Stack Developer** and **IT Head** with
 
 ## 📬 Connect with Me
 
-<p align="left">
-  <a href="https://github.com/cm2889" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://www.linkedin.com/in/imamhossain/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://facebook.com/imam.hossain.dev" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
+<p align="center">
+  <a href="https://github.com/nadeemmaahmud" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://www.linkedin.com/in/nadeemmaahmud/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://facebook.com/nadeemmaahmud" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
 </p>
 
 > 💡 Open to freelance, remote, and senior full-stack/backend opportunities. Let's build something great together!
