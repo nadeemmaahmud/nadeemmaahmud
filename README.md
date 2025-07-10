@@ -25,7 +25,7 @@ I'm Nadim Mahmud, a results-driven **Full-Stack Developer** with more than a yea
 ### 🗃️ Databases
 - PostgreSQL, MySQL, SQLite
 
-### ☁️ DevOps & Cloud
+### ☁️ Cloud
 - Docker, Docker Compose    
 - GitHub Actions
 
@@ -51,7 +51,7 @@ I'm Nadim Mahmud, a results-driven **Full-Stack Developer** with more than a yea
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" height="40" alt="Django"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="Django"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="Postgresql"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker"/>
