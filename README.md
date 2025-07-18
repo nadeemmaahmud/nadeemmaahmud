@@ -33,15 +33,24 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="Postgresql"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="40" alt="Git"/>
-  <i class="devicon-github-original" height="40" alt="Github"></i>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" height="40" style="filter: invert(100%);" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux"/>
 </p>
 <h3 align="center">Connect With Me</h3>
 <hr>
 <p align="center">
-  <img src="https://img.shields.io/badge/Email-nadeemmaahmud@gmail.com-blue" alt="Email">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="40" alt="Linked In"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/facebook/facebook-original.svg" height="40" alt="Facebook"/>
+  <a href="mailto:nadeemmaahmud@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-nadeemmaahmud@gmail.com-blue" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/nadeemmaahmud" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn" />
+  </a>
+  <a href="https://x.com/nadeemmaahmud" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/x/x-original.svg" height="40" alt="X (Twitter)" />
+  </a>
+  <a href="https://facebook.com/nadeemmaahmud" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/facebook/facebook-original.svg" height="40" alt="Facebook" />
+  </a>
 </p>
 <h3 align="center">Github Stats</h3>
 <hr>
