@@ -32,11 +32,11 @@ I'm Nadim Mahmud, a results-driven **Full-Stack Developer** with more than a yea
 ---
 
 ## 🚀 Competitive Programming & DS Profiles:
-
+<p align="center">
 | [CodeChef](https://www.codechef.com/) | [Codeforces](https://codeforces.com/) | [LeetCode](https://leetcode.com/) | [Beecrowd](https://www.beecrowd.com.br/judge/en/profile/) | [Vjudge](https://vjudge.net/user/Sourabh_swe) | [AtCoder](https://atcoder.jp/) |
 |:-------------------------------------:|:-------------------------------------:|:-------------------------------:|:--------------------------------------------------------:|:--------------------------------------------:|:-----------------------------:
 | ![CodeChef](https://img.shields.io/badge/-CodeChef-black?style=flat&logo=codechef) | ![Codeforces](https://img.shields.io/badge/-Codeforces-orange?style=flat&logo=codeforces) | ![LeetCode](https://img.shields.io/badge/-LeetCode-yellow?style=flat&logo=leetcode) | ![Beecrowd](https://img.shields.io/badge/-Beecrowd-blue?style=flat) | ![Vjudge](https://img.shields.io/badge/-Vjudge-green?style=flat) | ![AtCoder](https://img.shields.io/badge/-AtCoder-blue?style=flat) |
-
+</p>
 ---
 
 ## 🧰 Tools & Technologies
