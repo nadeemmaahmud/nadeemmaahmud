@@ -43,3 +43,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="40" alt="Linked In"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/facebook/facebook-original.svg" height="40" alt="Facebook"/>
 </p>
+<h3 align="center">Github Stats</h3>
+<hr>
+<div align="center">
+  ![nadeemmaahmud's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nadeemmaahmud&show_icons=true&theme=default)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nadeemmaahmud&layout=compact&theme=default)
+  ![GitHub Streak](https://streak-stats.demolab.com/?user=nadeemmaahmud&theme=default)
+</div>
