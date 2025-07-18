@@ -13,13 +13,13 @@
 <p align="center">
   <table align="center">
     <tr>
-      <td><a href="https://www.codechef.com/nadeemmaahmud/"><img src="https://img.shields.io/badge/-CodeChef-gray?style=flat&logo=codechef"></a></td>
-      <td><a href="https://codeforces.com/nadeemmaahmud/"><img src="https://img.shields.io/badge/-Codeforces-orange?style=flat&logo=codeforces"></a></td>
+      <td><a href="https://www.codechef.com/users/nadeemmaahmud/"><img src="https://img.shields.io/badge/-CodeChef-gray?style=flat&logo=codechef"></a></td>
+      <td><a href="https://codeforces.com/profile/nadeemmaahmud/"><img src="https://img.shields.io/badge/-Codeforces-orange?style=flat&logo=codeforces"></a></td>
       <td><a href="https://leetcode.com/nadeemmaahmud/"><img src="https://img.shields.io/badge/-LeetCode-yellow?style=flat&logo=leetcode"></a></td>
       <td><a href="https://hackerrank.com/nadeemmaahmud/"><img src="https://img.shields.io/badge/-HackerRank-green?style=flat&logo=hackerrank"></a></td>
       <td><a href="https://www.beecrowd.com.br/judge/en/profile/1159093/"><img src="https://img.shields.io/badge/-Beecrowd-blue?style=flat"></a></td>
       <td><a href="https://vjudge.net/user/nadeemmaahmud/"><img src="https://img.shields.io/badge/-Vjudge-green?style=flat"></a></td>
-      <td><a href="https://atcoder.jp/nadeemmaahmud/"><img src="https://img.shields.io/badge/-AtCoder-blue?style=flat"></a></td>
+      <td><a href="https://atcoder.jp/users/nadeemmaahmud/"><img src="https://img.shields.io/badge/-AtCoder-blue?style=flat"></a></td>
     </tr>
   </table>
 </p>
@@ -39,7 +39,7 @@
 <h3 align="center">Connect With Me</h3>
 <hr>
 <p align="center">
+  <img src="https://img.shields.io/badge/Email-nadeemmaahmud@gmail.com-blue" alt="Email">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="40" alt="Linked In"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/facebook/facebook-original.svg" height="40" alt="Facebook"/>
-  <img src="https://img.shields.io/badge/Email-nadeemmaahmud@gmail.com-blue" alt="Email">
 </p>
