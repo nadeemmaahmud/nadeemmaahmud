@@ -1,33 +1,64 @@
-# Sourabh Barua
+<h1 align="center">Sourabh Barua</h1>
+<hr>
 
----
+<p align="center"><b>Undergraduate Software Engineer || Competitive Programmer DIU ||</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Profile%20views-765-blue" alt="Profile views" />
+</p>
+<hr>
 
-**Undergraduate Software Engineer || Competitive Programmer DIU ||**
+<h2 align="center">Connect with me:</h2>
+<p align="center">
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/Linkedin-blue?logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.facebook.com/">
+    <img src="https://img.shields.io/badge/Facebook-blue?logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <img src="https://img.shields.io/badge/Email-sourabh31.swe@gmail.com-blue" alt="Email" />
+</p>
+<hr>
 
-![Profile views](https://img.shields.io/badge/Profile%20views-765-blue)
+<h2 align="center">Competitive Programming & DS Profiles:</h2>
+<p align="center">
+  <a href="https://www.codechef.com/">
+    <img src="https://img.shields.io/badge/-CodeChef-black?style=for-the-badge&logo=codechef" alt="CodeChef" />
+  </a>
+  <a href="https://codeforces.com/">
+    <img src="https://img.shields.io/badge/-Codeforces-orange?style=for-the-badge" alt="Codeforces" />
+  </a>
+  <a href="https://leetcode.com/">
+    <img src="https://img.shields.io/badge/-LeetCode-yellow?style=for-the-badge&logo=leetcode" alt="LeetCode" />
+  </a>
+  <a href="https://www.beecrowd.com.br/judge/en/profile/">
+    <img src="https://img.shields.io/badge/-Beecrowd-blue?style=for-the-badge" alt="Beecrowd" />
+  </a>
+  <a href="https://vjudge.net/user/Sourabh_swe">
+    <img src="https://img.shields.io/badge/-Vjudge-green?style=for-the-badge" alt="Vjudge" />
+  </a>
+  <a href="https://atcoder.jp/">
+    <img src="https://img.shields.io/badge/-AtCoder-blue?style=for-the-badge" alt="AtCoder" />
+  </a>
+  <a href="https://www.kaggle.com/">
+    <img src="https://img.shields.io/badge/-Kaggle-blue?style=for-the-badge&logo=kaggle" alt="Kaggle" />
+  </a>
+</p>
+<hr>
 
----
+<h2 align="center">Languages and Tools I know:</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c" alt="C" />
+  <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B" alt="C++" />
+  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git" alt="Git" />
+  <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java" alt="Java" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python" alt="Python" />
+</p>
+<hr>
 
-### Connect with me:
-
-[![Linkedin](https://img.shields.io/badge/Linkedin-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![Facebook](https://img.shields.io/badge/Facebook-blue?logo=facebook&logoColor=white)](https://www.facebook.com/)
-![Email](https://img.shields.io/badge/Email-sourabh31.swe@gmail.com-blue)
-
----
-
-### Competitive Programming & DS Profiles:
-
-| [CodeChef](https://www.codechef.com/) | [Codeforces](https://codeforces.com/) | [LeetCode](https://leetcode.com/) | [Beecrowd](https://www.beecrowd.com.br/judge/en/profile/) | [Vjudge](https://vjudge.net/user/Sourabh_swe) | [AtCoder](https://atcoder.jp/) | [Kaggle](https://www.kaggle.com/) |
-|:-------------------------------------:|:-------------------------------------:|:-------------------------------:|:--------------------------------------------------------:|:--------------------------------------------:|:-----------------------------:|:-------------------------------:|
-| ![CodeChef](https://img.shields.io/badge/-CodeChef-black?style=flat&logo=codechef) | ![Codeforces](https://img.shields.io/badge/-Codeforces-orange?style=flat&logo=codeforces) | ![LeetCode](https://img.shields.io/badge/-LeetCode-yellow?style=flat&logo=leetcode) | ![Beecrowd](https://img.shields.io/badge/-Beecrowd-blue?style=flat) | ![Vjudge](https://img.shields.io/badge/-Vjudge-green?style=flat) | ![AtCoder](https://img.shields.io/badge/-AtCoder-blue?style=flat) | ![Kaggle](https://img.shields.io/badge/-Kaggle-blue?style=flat&logo=kaggle) |
-
----
-
-### Languages and Tools I know:
-
-![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
+<h2 align="center">GitHub Stats:</h2>
+<p align="center">
+  <img src="image1" alt="GitHub Stats Languages" />
+</p>
+<p align="center">
+  <img src="image2" alt="GitHub Stats Cards" />
+</p>
