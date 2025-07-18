@@ -33,7 +33,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="Postgresql"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="40" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" height="40" alt="Github"/>
+  <img src="https://img.icons8.com/ios-glyphs/50/ffffff/github.png" height="40" alt="Github"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux"/>
 </p>
 <h3 align="center">Connect With Me</h3>
@@ -46,7 +46,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn" />
   </a>
   <a href="https://x.com/nadeemmaahmud" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023.svg" height="40" alt="X (Twitter)" />
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/x.png" height="40" alt="X (Twitter)" />
   </a>
   <a href="https://facebook.com/nadeemmaahmud" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/facebook/facebook-original.svg" height="40" alt="Facebook" />
