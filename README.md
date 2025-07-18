@@ -33,9 +33,9 @@ I'm Nadim Mahmud, a results-driven **Full-Stack Developer** with more than a yea
 
 <h2 align="center">Competitive Programming & DS Profiles:</h2>
 <p align="center">
-  <table>
+  <table align="center">
     <tr>
-      <td><a href="https://www.codechef.com/"><img src="https://img.shields.io/badge/-CodeChef-black?style=flat&logo=codechef"></a></td>
+      <td><a href="https://www.codechef.com/"><img src="https://img.shields.io/badge/-CodeChef-gray?style=flat&logo=codechef"></a></td>
       <td><a href="https://codeforces.com/"><img src="https://img.shields.io/badge/-Codeforces-orange?style=flat&logo=codeforces"></a></td>
       <td><a href="https://leetcode.com/"><img src="https://img.shields.io/badge/-LeetCode-yellow?style=flat&logo=leetcode"></a></td>
       <td><a href="https://www.beecrowd.com.br/judge/en/profile/"><img src="https://img.shields.io/badge/-Beecrowd-blue?style=flat"></a></td>
