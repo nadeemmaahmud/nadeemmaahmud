@@ -1,33 +1,11 @@
-
-# Hi 👋, I'm Nadim Mahmud
-
-🚀 **Python Django Developer** | Competitive Programmer
+<h2>Hi, I'm Nadim Mahmud!</h2>
+<h4>Python Django Developer** | Competitive Programmer</h4>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 I'm Nadim Mahmud, a results-driven **Full-Stack Developer** with more than a years of experience in building scalable ERP platforms and enterprise APIs.
-
-### 🔧 Specialties:
-- ERP Modules: HR, Procurement, Sales, Inventory, Compliance, Costing  
-- Full-cycle backend systems in **Django**  
-- Docker and production-grade deployments
-  
----
-
-## 🛠 Tech Skills
-
-### 💻 Languages & Frameworks
-- **Backend**: C/C++, Python (Django, DRF)  
-- **Frontend**: HTML/CSS, JavaScript (basic), Bootstrap
-
-### 🗃️ Databases
-- PostgreSQL, MySQL, SQLite
-
-### ☁️ Cloud
-- Docker, Docker Compose    
-- GitHub Actions
 
 ---
 
@@ -45,7 +23,7 @@ I'm Nadim Mahmud, a results-driven **Full-Stack Developer** with more than a yea
   </table>
 </p>
 
-## 🧰 Tools & Technologies
+## Tools & Technologies
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height="40" alt="C"/>  
@@ -61,7 +39,7 @@ I'm Nadim Mahmud, a results-driven **Full-Stack Developer** with more than a yea
 
 ---
 
-## 📬 Connect with Me
+## Connect with Me
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="40" alt="Linked In"/>
@@ -69,4 +47,4 @@ I'm Nadim Mahmud, a results-driven **Full-Stack Developer** with more than a yea
   <img src="https://img.shields.io/badge/Email-sourabh31.swe@gmail.com-blue" alt="Email">
 </p>
 
-> 💡 Open to freelance, remote, and senior full-stack/backend opportunities. Let's build something great together!
+> Open to freelance, remote, and senior full-stack/backend opportunities. Let's build something great together!
