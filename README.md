@@ -45,8 +45,10 @@
 </p>
 <h3 align="center">Github Stats</h3>
 <hr>
-
-![nadeemmaahmud's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nadeemmaahmud&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nadeemmaahmud&layout=compact&theme=default)
-![GitHub Streak](https://streak-stats.demolab.com/?user=nadeemmaahmud&theme=default)
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nadeemmaahmud&show_icons=true&theme=default" alt="nadeemmaahmud's GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadeemmaahmud&layout=compact&theme=default" alt="Top Languages" />
+  <br/>
+  <img src="https://streak-stats.demolab.com/?user=nadeemmaahmud&theme=default" alt="GitHub Streak" />
+</div>
