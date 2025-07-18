@@ -33,9 +33,9 @@ I'm Nadim Mahmud, a results-driven **Full-Stack Developer** with more than a yea
 
 ## 🚀 Competitive Programming & DS Profiles:
 
-| [CodeChef](https://www.codechef.com/) | [Codeforces](https://codeforces.com/) | [LeetCode](https://leetcode.com/) | [Beecrowd](https://www.beecrowd.com.br/judge/en/profile/) | [Vjudge](https://vjudge.net/user/Sourabh_swe) | [AtCoder](https://atcoder.jp/) | [Kaggle](https://www.kaggle.com/) |
+| [CodeChef](https://www.codechef.com/) | [Codeforces](https://codeforces.com/) | [LeetCode](https://leetcode.com/) | [Beecrowd](https://www.beecrowd.com.br/judge/en/profile/) | [Vjudge](https://vjudge.net/user/Sourabh_swe) | [AtCoder](https://atcoder.jp/) |
 |:-------------------------------------:|:-------------------------------------:|:-------------------------------:|:--------------------------------------------------------:|:--------------------------------------------:|:-----------------------------:|:-------------------------------:|
-| ![CodeChef](https://img.shields.io/badge/-CodeChef-black?style=flat&logo=codechef) | ![Codeforces](https://img.shields.io/badge/-Codeforces-orange?style=flat&logo=codeforces) | ![LeetCode](https://img.shields.io/badge/-LeetCode-yellow?style=flat&logo=leetcode) | ![Beecrowd](https://img.shields.io/badge/-Beecrowd-blue?style=flat) | ![Vjudge](https://img.shields.io/badge/-Vjudge-green?style=flat) | ![AtCoder](https://img.shields.io/badge/-AtCoder-blue?style=flat) | ![Kaggle](https://img.shields.io/badge/-Kaggle-blue?style=flat&logo=kaggle) |
+| ![CodeChef](https://img.shields.io/badge/-CodeChef-black?style=flat&logo=codechef) | ![Codeforces](https://img.shields.io/badge/-Codeforces-orange?style=flat&logo=codeforces) | ![LeetCode](https://img.shields.io/badge/-LeetCode-yellow?style=flat&logo=leetcode) | ![Beecrowd](https://img.shields.io/badge/-Beecrowd-blue?style=flat) | ![Vjudge](https://img.shields.io/badge/-Vjudge-green?style=flat) | ![AtCoder](https://img.shields.io/badge/-AtCoder-blue?style=flat) |
 
 ---
 
@@ -54,10 +54,8 @@ I'm Nadim Mahmud, a results-driven **Full-Stack Developer** with more than a yea
 
 ## 📬 Connect with Me
 
-<p align="center">
   [![Linkedin](https://img.shields.io/badge/Linkedin-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nadeemmaahmud/)
   [![Facebook](https://img.shields.io/badge/Facebook-blue?logo=facebook&logoColor=white)](https://www.facebook.com/nadeemmaahmud/)
   ![Email](https://img.shields.io/badge/Email-nadeemmaahmud@gmail.com-blue)
-</p>
 
 > 💡 Open to freelance, remote, and senior full-stack/backend opportunities. Let's build something great together!
