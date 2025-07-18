@@ -1,7 +1,7 @@
 
 # Hi 👋, I'm Nadim Mahmud
 
-🚀 **Full-Stack Developer** | Python • Django • DRF
+🚀 **Python Django Developer** | Competitive Programmer
 
 ---
 
@@ -55,7 +55,7 @@ I'm Nadim Mahmud, a results-driven **Full-Stack Developer** with more than a yea
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="Postgresql"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="40" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" color="gray" height="40" alt="Github"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" background-color="gray" height="40" alt="Github"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux"/>
 </p>
 
