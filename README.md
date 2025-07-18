@@ -1,11 +1,11 @@
-<h2>Hi, I'm Nadim Mahmud!</h2>
-<h4>Python Django Developer** | Competitive Programmer</h4>
+<h1 align="center">Nadim Mahmud</h1>
+<h4 align="center">Python Django Developer | Competitive Programmer</h4>
 
 ---
 
-## About Me
+<h2 align="center">About Me</h2>
 
-I'm Nadim Mahmud, a results-driven **Full-Stack Developer** with more than a years of experience in building scalable ERP platforms and enterprise APIs.
+<p>I'm Nadim Mahmud, a results-driven <b>Python Django Developer</b> and <b>Competitive Programmer</b>with more than a years of experience in building scalable ERP platforms and enterprise APIs.
 
 ---
 
@@ -33,7 +33,8 @@ I'm Nadim Mahmud, a results-driven **Full-Stack Developer** with more than a yea
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="Postgresql"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="40" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" background-color="gray" height="40" alt="Github"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
+     style="filter: invert(41%) sepia(100%) saturate(10) hue-rotate(330deg);" height="40" alt="Github"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux"/>
 </p>
 
