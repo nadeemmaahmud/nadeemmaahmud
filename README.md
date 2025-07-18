@@ -48,11 +48,14 @@ I'm Nadim Mahmud, a results-driven **Full-Stack Developer** with more than a yea
 ## 🧰 Tools & Technologies
 
 <p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height="40" alt=""/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="Django"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="Postgresql"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="40" als="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="40" als="Github"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux"/>
 </p>
 
@@ -60,8 +63,10 @@ I'm Nadim Mahmud, a results-driven **Full-Stack Developer** with more than a yea
 
 ## 📬 Connect with Me
 
-  [![Linkedin](https://img.shields.io/badge/Linkedin-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nadeemmaahmud/)
-  [![Facebook](https://img.shields.io/badge/Facebook-blue?logo=facebook&logoColor=white)](https://www.facebook.com/nadeemmaahmud/)
-  ![Email](https://img.shields.io/badge/Email-nadeemmaahmud@gmail.com-blue)
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/facebook/facebook-original.svg" />
+  <img src="https://img.shields.io/badge/Email-sourabh31.swe@gmail.com-blue" alt="Email">
+</p>
 
 > 💡 Open to freelance, remote, and senior full-stack/backend opportunities. Let's build something great together!
