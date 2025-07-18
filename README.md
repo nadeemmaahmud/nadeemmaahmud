@@ -1,15 +1,16 @@
 <h1 align="center">Nadim Mahmud</h1>
-<h4 align="center">Python Django Developer | Competitive Programmer</h4>
-
----
-
-<h2 align="center">About Me</h2>
-
-<p>I'm Nadim Mahmud, a results-driven <b>Python Django Developer</b> and <b>Competitive Programmer</b>with more than a years of experience in building scalable ERP platforms and enterprise APIs.
-
----
-
-<h2 align="center">Competitive Programming & DS Profiles:</h2>
+<hr/>
+<h5 align="center">Python Django Developer | Competitive Programmer</h5>
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=nadeemmaahmud" alt="Profile views">
+</p>
+<h3 align="center">About Me</h3>
+</hr>
+<p>I'm Nadim Mahmud, a results-driven <b>Python Django Developer</b> and <b>Competitive Programmer</b>with more than a years of experience in building scalable web apps and APIs, solved about 400+
+  problems from various online judges. I've perticipated so many programming contests both online and in person. I'm motivated and focused to level up my skills and knowledge on the next level.
+</p>
+<h3 align="center">Competitive Programming & DS Profiles</h3>
+</hr>
 <p align="center">
   <table align="center">
     <tr>
@@ -22,9 +23,8 @@
     </tr>
   </table>
 </p>
-
-## Tools & Technologies
-
+<h3 align="center">Tools and Technologies</h3>
+</hr>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height="40" alt="C"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++"/>
@@ -37,15 +37,12 @@
      style="filter: invert(41%) sepia(100%) saturate(10) hue-rotate(330deg);" height="40" alt="Github"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux"/>
 </p>
-
----
-
-## Connect with Me
-
+<h3 align="center">Connect With Me</h3>
+</hr>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="40" alt="Linked In"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/facebook/facebook-original.svg" height="40" alt="Facebook"/>
   <img src="https://img.shields.io/badge/Email-sourabh31.swe@gmail.com-blue" alt="Email">
 </p>
-
+</hr>
 > Open to freelance, remote, and senior full-stack/backend opportunities. Let's build something great together!
