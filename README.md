@@ -45,7 +45,8 @@
 </p>
 <h3 align="center">Github Stats</h3>
 <hr>
-  ![nadeemmaahmud's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nadeemmaahmud&show_icons=true&theme=default)
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nadeemmaahmud&layout=compact&theme=default)
-  ![GitHub Streak](https://streak-stats.demolab.com/?user=nadeemmaahmud&theme=default)
+
+![nadeemmaahmud's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nadeemmaahmud&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nadeemmaahmud&layout=compact&theme=default)
+![GitHub Streak](https://streak-stats.demolab.com/?user=nadeemmaahmud&theme=default)
 
