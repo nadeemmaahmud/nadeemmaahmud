@@ -26,15 +26,13 @@
 <h3 align="center">Tools and Technologies</h3>
 <hr>
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height="40" alt="C"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="Django"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="Postgresql"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="40" alt="Git"/>
-  <img src="https://img.icons8.com/ios-glyphs/50/ffffff/github.png" height="40" alt="Github"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux"/>
+  <img src="https://img.icons8.com/ios-glyphs/50/ffffff/postman.png" height="40" alt="Postman"/>
 </p>
 <h3 align="center">Connect With Me</h3>
 <hr>
@@ -44,12 +42,6 @@
   </a>
   <a href="https://www.linkedin.com/in/nadeemmaahmud" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn" />
-  </a>
-  <a href="https://x.com/nadeemmaahmud" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/ffffff/x.png" height="40" alt="X (Twitter)" />
-  </a>
-  <a href="https://facebook.com/nadeemmaahmud" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/facebook/facebook-original.svg" height="40" alt="Facebook" />
   </a>
 </p>
 <h3 align="center">Github Stats</h3>
