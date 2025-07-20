@@ -17,8 +17,6 @@
       <td><a href="https://codeforces.com/profile/nadeemmaahmud/"><img src="https://img.shields.io/badge/-Codeforces-orange?style=flat&logo=codeforces"></a></td>
       <td><a href="https://leetcode.com/nadeemmaahmud/"><img src="https://img.shields.io/badge/-LeetCode-yellow?style=flat&logo=leetcode"></a></td>
       <td><a href="https://hackerrank.com/nadeemmaahmud/"><img src="https://img.shields.io/badge/-HackerRank-green?style=flat&logo=hackerrank"></a></td>
-      <td><a href="https://www.beecrowd.com.br/judge/en/profile/1159093/"><img src="https://img.shields.io/badge/-Beecrowd-blue?style=flat"></a></td>
-      <td><a href="https://vjudge.net/user/nadeemmaahmud"><img src="https://img.shields.io/badge/-Vjudge-green?style=flat"></a></td>
       <td><a href="https://atcoder.jp/users/nadeemmaahmud/"><img src="https://img.shields.io/badge/-AtCoder-blue?style=flat"></a></td>
     </tr>
   </table>
