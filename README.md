@@ -6,7 +6,7 @@
 </p>
 <h3 align="center">About Me</h3>
 <hr>
-<p>I'm Nadim Mahmud, a results-driven <b>Python Django Developer</b> and <b>Competitive Programmer</b>with more than a years of experience in building scalable web apps and APIs, solved about 400+ problems from various online judges. I've perticipated so many programming contests on both online and in person. I'm enough motivated and focused to level up my skills and knowledge always on the next level.
+<p>I'm Nadim Mahmud, a results-driven <b>Python Django Developer</b> and <b>Competitive Programmer</b> with more than a years of experience in building some scalable web apps and APIs, solved about 400+ problems from various online judges. I've perticipated so many programming contests on both online and in person. I'm enough motivated and focused to level up my skills and knowledge always on the next level.
 </p>
 <h3 align="center">Competitive Programming & DS Profiles</h3>
 <hr>
