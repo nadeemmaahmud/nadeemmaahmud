@@ -49,5 +49,5 @@
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadeemmaahmud&layout=compact&theme=default" alt="Top Languages" />
   <br/>
-  <!--<img src="https://streak-stats.demolab.com/?user=nadeemmaahmud&theme=default" alt="GitHub Streak" />-->
+  <img src="https://streak-stats.demolab.com/?user=nadeemmaahmud&theme=default" alt="GitHub Streak" />
 </div>
