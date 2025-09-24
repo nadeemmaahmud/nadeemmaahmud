@@ -6,7 +6,7 @@
 </p>
 <h3 align="center">About Me</h3>
 <hr>
-<p>I'm Nadim Mahmud, a results-driven <b>Python Django Developer</b> and <b>Competitive Programmer</b> with more than a years of experience in building some scalable web apps and APIs, solved about 400+ problems from various online judges. I've perticipated so many programming contests on both online and in person. I'm enough motivated and focused to level up my skills and knowledge always on the next level.
+<p>I’m a web developer and a competitive programmer with a solid understanding in object oriented programming. As a web developer I have built and still working on web applications to keep practicing and improve my web development skills. Also I’m actively solving problems in various online judges as a competitive programmer to improve my coding implementation and debugging skill. Currently, I’m learning react, tailwind css and data structures and algorithms to level up my skills with the competitive world. And now I’m seeking an opportunity to use and extend my knowledge professionally to gain real life experience with a productive environment.
 </p>
 <h3 align="center">Competitive Programming & DS Profiles</h3>
 <hr>
