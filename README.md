@@ -6,7 +6,7 @@
 </p>
 <h3 align="center">About Me</h3>
 <hr>
-<p>I’m a web developer and a competitive programmer with a solid understanding in object oriented programming. As a web developer I have built and still working on web applications to keep practicing and improve my web development skills. Also I’m actively solving problems in various online judges as a competitive programmer to improve my coding implementation and debugging skill. Currently, I’m learning react, tailwind css and data structures and algorithms to level up my skills with the competitive world. And now I’m seeking an opportunity to use and extend my knowledge professionally to gain real life experience with a productive environment.
+<p>I am a backend developer and a competitive programmer with a solid understanding in object oriented programming. Currently I am working in a tech company as a backend developer. Also I am actively solving problems in various online judges to improve my code implementation and debugging skill. Besides, I am learning Data Structures and Algorithms and DevOps to level up my skills.
 </p>
 <h3 align="center">Competitive Programming & DS Profiles</h3>
 <hr>
