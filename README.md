@@ -88,6 +88,6 @@ I love breaking down complex problems and optimizing algorithms for performance.
 ---
 
 ### 📫 Connect with me
-*   **LinkedIn:** [linkedin.com/in/nadimmahmud](https://linkedin.com/in/nadimmahmud) *(লিঙ্কটি প্রয়োজন অনুযায়ী আপডেট করুন)*
-*   **Portfolio:** [nadim.dev](https://nadim.dev) *(লিঙ্কটি আপডেট করুন)*
-*   **Email:** [your-email@example.com](mailto:your-email@example.com) *(ইমেইল আপডেট করুন)*
+*   **LinkedIn:** [linkedin.com/in/nadimmahmud](https://linkedin.com/in/nadeemmaahmud)
+*   **Portfolio:** [nadim.dev](https://nadeemmaahmud.vercel.app/)
+*   **Email:** [your-email@example.com](mailto:nadeemmaahmud.cse@gmail.com)
