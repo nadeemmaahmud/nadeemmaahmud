@@ -1,57 +1,56 @@
-# Hi there, I'm Nadim Mahmud! 👋
+# Hi, I'm Nadim Mahmud 👋
 
-I'm a **Backend Developer** who enjoys building scalable architectures, integrating AI microservices, and writing clean, optimized REST APIs.
+I am a backend-focused software engineer based in Dhaka, Bangladesh. Currently working as a Jr. Backend Developer at Join Venture AI. I specialize in building secure, scalable backend services, optimizing databases, and setting up real-time architectures.
 
-## 👨‍💻 About Me
-- 🔭 I'm currently working as a **Backend Developer** at Join Venture AI in Dhaka.
-- 💡 I mostly work with **Python, Django, Django REST Framework, and PostgreSQL**.
-- ⚙️ I love solving architectural challenges like **API optimization, Redis caching, and async background tasks (Celery)**.
-- 🏆 I've solved over **600+ competitive programming problems** across platforms like Codeforces, LeetCode, and CodeChef.
-- 📫 Reach me via email: [nadeemmaahmud.cse@gmail.com](mailto:nadeemmaahmud.cse@gmail.com)
-- 💼 Connect on LinkedIn: [linkedin.com/in/nadeemmaahmud](https://www.linkedin.com/in/nadeemmaahmud/)
-- 🌐 Check out my portfolio: [nadeemmaahmud.vercel.app](https://nadeemmaahmud.vercel.app/)
+* 🚀 Currently developing AI-powered workflows, real-time messaging, and payment APIs.
+* 🛠️ Core Stack: Python (Django & FastAPI), PostgreSQL, Redis, Celery, and Docker.
+* 🧠 Passionate about problem-solving; solved 600+ problems across various platforms.
 
-<br/>
+---
 
-## 🛠️ Tech Stack & Tools
+### Technical Skills
 
-**Languages & Frameworks:** <br/>
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+* **Languages:** Python, JavaScript (ES6+), SQL
+* **Frameworks & Libraries:** Django, Django REST Framework (DRF), React, Redux Toolkit
+* **Databases & Caches:** PostgreSQL, MySQL, Redis, SQLite
+* **Task Queues & Brokers:** Celery, RabbitMQ
+* **Backend & Architecture:** RESTful APIs, WebSockets (Django Channels), JWT Authentication, RBAC, API Caching & Throttling, Unit Testing
+* **Tools & DevOps:** Docker, Git, AWS (EC2, S3), CI/CD, Nginx, Linux/VPS, Postman
 
-**Databases & Caching:** <br/>
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) 
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
+---
 
-**Architecture & Tools:** <br/>
-![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+### Featured Projects
 
-<br/>
+* **AI Powered Insurance App (Clamea)**
+  * A freemium insurance platform featuring a real-time AI chatbot via WebSocket, social authentication, and cursor-based pagination.
+  * *Tech Stack:* Django, Django Channels, WebSockets, Celery, Redis, Firebase, PostgreSQL.
 
-## 🚀 What I've Built Recently
+* **Eat At Home (Nutrition Analytics)**
+  * Meal tracking platform that integrates with Plaid API to fetch transaction data and categorizes food expenses.
+  * *Tech Stack:* Django, DRF, Plaid API, Redis Caching, PostgreSQL, AWS.
 
-### 🛡️ AI Powered Insurance App
-A freemium insurance platform featuring an AI chatbot via WebSockets. 
-- **Tech:** Django, WebSockets, JWT, Celery, Redis, PostgreSQL.
-- **Highlights:** Built the internal AI microservice routing, implemented API throttling for security, and managed background tasks for automated push notifications.
+* **RnD Taxbot**
+  * Tax rebate automation platform with multi-turn AI interview flow over WebSockets and admin-approved workflows.
+  * *Tech Stack:* Django, DRF, WebSocket, Celery, Redis, PostgreSQL.
 
-### 🍽️ Eat At Home
-A meal tracking and nutrition analytics platform that integrates with the Plaid API to fetch real bank transactions.
-- **Tech:** Django ORM, Redis, PostgreSQL, Firebase.
-- **Highlights:** Integrated an AI microservice to analyze food photos for pricing estimates and used Redis caching to keep the response time low.
+* **Animal Service**
+  * E-commerce marketplace with listings, auction systems, and driver-matching via Google Maps API.
+  * *Tech Stack:* Django, Celery, Telr Payment, Socket.IO, Google Maps API, PostgreSQL.
 
-### 🤖 RnD Taxbot
-A tax rebate automation platform with a multi-turn AI interview flow.
-- **Tech:** Django, WebSockets, Redis, JWT.
-- **Highlights:** Designed a complex multi-stage approval workflow with role-based access control and managed async background workflows via Redis.
+---
 
-### 🐾 Animal Service
-A comprehensive pet marketplace with buyer/seller listings, auctions, and vet scheduling.
-- **Tech:** Django, Telr Payments, Google Maps API, WebSockets.
-- **Highlights:** Added Redis caching to handle high-traffic marketplace queries, built real-time 1-on-1 chat, and implemented proximity-based transport matching.
+### Coding Profiles
+
+* [LeetCode](https://leetcode.com/nadeemmaahmud/)
+* [Codeforces](https://codeforces.com/profile/nadeemmaahmud/)
+* [CodeChef](https://www.codechef.com/users/nadeemmaahmud/)
+* [HackerRank](https://www.hackerrank.com/nadeemmaahmud/)
+* [InterviewBit](https://www.interviewbit.com/profile/nadeemmaahmud/)
+
+---
+
+### Get in touch
+
+* **LinkedIn:** [linkedin.com/in/nadeemmaahmud](https://linkedin.com/in/nadeemmaahmud)
+* **Email:** [nadeemmaahmud.cse@gmail.com](mailto:nadeemmaahmud.cse@gmail.com)
+* **Portfolio:** [nadeemmaahmud.vercel.app](https://nadeemmaahmud.vercel.app/)
