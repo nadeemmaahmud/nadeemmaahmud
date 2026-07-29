@@ -1,18 +1,15 @@
-<div align="center">
-  <h1>Hi there, I'm Nadim Mahmud! 👋</h1>
-  <h3>Backend Developer | Python & Django Specialist</h3>
-  <p>Building scalable architectures, AI-powered microservices, and robust REST APIs.</p>
-</div>
+# Hi there, I'm Nadim Mahmud! 👋
 
-<br/>
+I'm a **Backend Developer** who enjoys building scalable architectures, integrating AI microservices, and writing clean, optimized REST APIs.
 
 ## 👨‍💻 About Me
-- 🔭 Currently working as a **Backend Developer** at Join Venture AI.
-- 💡 Specializing in **Python, Django, Django REST Framework, and PostgreSQL**.
-- ⚙️ Deeply interested in **Asynchronous Programming, System Optimization, Caching (Redis), and background task processing (Celery)**.
-- 🏆 Passionate about Data Structures & Algorithms with **600+ competitive programming problems solved** across Codeforces, LeetCode, and CodeChef.
-- 📫 How to reach me: [nadeemmaahmud.cse@gmail.com](mailto:nadeemmaahmud.cse@gmail.com)
-- 🌐 Portfolio: [nadeemmaahmud.vercel.app](https://nadeemmaahmud.vercel.app/)
+- 🔭 I'm currently working as a **Backend Developer** at Join Venture AI in Dhaka.
+- 💡 I mostly work with **Python, Django, Django REST Framework, and PostgreSQL**.
+- ⚙️ I love solving architectural challenges like **API optimization, Redis caching, and async background tasks (Celery)**.
+- 🏆 I've solved over **600+ competitive programming problems** across platforms like Codeforces, LeetCode, and CodeChef.
+- 📫 Reach me via email: [nadeemmaahmud.cse@gmail.com](mailto:nadeemmaahmud.cse@gmail.com)
+- 💼 Connect on LinkedIn: [linkedin.com/in/nadeemmaahmud](https://www.linkedin.com/in/nadeemmaahmud/)
+- 🌐 Check out my portfolio: [nadeemmaahmud.vercel.app](https://nadeemmaahmud.vercel.app/)
 
 <br/>
 
@@ -37,39 +34,24 @@
 
 <br/>
 
-## 🚀 Featured Projects
+## 🚀 What I've Built Recently
 
 ### 🛡️ AI Powered Insurance App
-A scalable freemium insurance platform with an AI chatbot via WebSocket. 
-- **Tech:** Django, WebSockets, JWT, Celery/Redis, Firebase, PostgreSQL.
-- **Highlights:** Internal AI microservice routing, API throttling, background tasks for push notifications.
+A freemium insurance platform featuring an AI chatbot via WebSockets. 
+- **Tech:** Django, WebSockets, JWT, Celery, Redis, PostgreSQL.
+- **Highlights:** Built the internal AI microservice routing, implemented API throttling for security, and managed background tasks for automated push notifications.
 
 ### 🍽️ Eat At Home
-A meal tracking and nutrition analytics platform integrating real bank transactions (Plaid API).
+A meal tracking and nutrition analytics platform that integrates with the Plaid API to fetch real bank transactions.
 - **Tech:** Django ORM, Redis, PostgreSQL, Firebase.
-- **Highlights:** AI microservice integration for food pricing estimates, Redis caching to reduce latency, scalable meal planning logic.
+- **Highlights:** Integrated an AI microservice to analyze food photos for pricing estimates and used Redis caching to keep the response time low.
 
 ### 🤖 RnD Taxbot
-Tax rebate automation platform featuring an AI-powered WebSocket interview flow.
+A tax rebate automation platform with a multi-turn AI interview flow.
 - **Tech:** Django, WebSockets, Redis, JWT.
-- **Highlights:** Complex multi-stage approval workflow, role-based access control, secure document management.
+- **Highlights:** Designed a complex multi-stage approval workflow with role-based access control and managed async background workflows via Redis.
 
 ### 🐾 Animal Service
-A full-featured pet marketplace with buyer/seller listings, auctions, and vet scheduling.
+A comprehensive pet marketplace with buyer/seller listings, auctions, and vet scheduling.
 - **Tech:** Django, Telr Payments, Google Maps API, WebSockets.
-- **Highlights:** Redis caching for high-traffic marketplace queries, real-time 1-on-1 chat, and proximity-based transport matching.
-
-<br/>
-
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nadeemmaahmud&show_icons=true&theme=radium" alt="Nadim's GitHub Stats" />
-</p>
-
-<br/>
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/nadeemmaahmud/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</div>
+- **Highlights:** Added Redis caching to handle high-traffic marketplace queries, built real-time 1-on-1 chat, and implemented proximity-based transport matching.
