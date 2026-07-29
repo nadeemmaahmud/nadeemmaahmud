@@ -1,77 +1,49 @@
-# Nadim Mahmud
-> Backend Software Engineer specializing in Python, Django, and Asynchronous Systems.
-> Dhaka, Bangladesh • nadeemmaahmud.cse@gmail.com
+# Nadim Mahmud 🚀
+**Backend Software Engineer** specializing in the Python/Django ecosystem and real-time distributed architectures.
 
 ---
 
-### 🌐 System Overview
+### 🛠️ Core Technologies
+Here are the tools and technologies I use to build scalable server-side systems:
 
-```
-[ Client / Frontend ]
-       │  (HTTPS / WebSockets)
-       ▼
-[ Nginx (Reverse Proxy) ]
-       │
-       ▼
-[ Django / DRF Application ] ───► [ PostgreSQL (Primary DB) ]
-       │                               ▲ (Query Tuning & Indexes)
-       ├─► [ Redis (API Caching) ] ────┘
-       │
-       ▼
-[ Celery Workflows ] ◄─── [ Redis / RabbitMQ (Message Broker) ]
-```
-
-I design robust backend architectures with a strong focus on query performance, memory caching, and async process scheduling. 
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,django,postgres,redis,docker,aws,js,react,redux,tailwind,git,github,postman" alt="My Skills" />
+  </a>
+</p>
 
 ---
 
-### 🛠️ Core Capabilities
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h4>⚡ Server-Side & Logic</h4>
-      <ul>
-        <li><strong>Languages:</strong> Python, JavaScript (ES6+), SQL (PostgreSQL, MySQL)</li>
-        <li><strong>Frameworks:</strong> Django, Django REST Framework (DRF), FastAPI</li>
-        <li><strong>Real-time:</strong> WebSockets, Django Channels, Socket.IO</li>
-        <li><strong>Async Workers:</strong> Celery, Redis, RabbitMQ</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🔒 Security & Optimization</h4>
-      <ul>
-        <li><strong>Auth & AuthZ:</strong> JWT (JSON Web Tokens), RBAC (Role-Based Access Control)</li>
-        <li><strong>Performance:</strong> API Caching, Rate Limiting & Throttling, Query Profiling</li>
-        <li><strong>Infrastructure:</strong> Docker, Nginx, AWS (EC2, S3), Linux/VPS</li>
-        <li><strong>Testing:</strong> Integration & Unit Testing</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+### 💼 What I Do
+*   **Backend Engineering:** Writing clean, scalable code using Django & DRF.
+*   **Distributed Systems:** Orchestrating task workers with Celery, Redis, and RabbitMQ.
+*   **Optimization:** Database query tuning, PostgreSQL indexing, and API caching.
+*   **Real-time Apps:** Setting up WebSocket endpoints with Django Channels for live chat and notifications.
+*   **Frontend integration:** Building responsive, state-managed user interfaces in React & Redux.
 
 ---
 
-### 🚀 Featured Production Architectures
+### 📁 Featured Production Architectures
 
-#### 📂 AI Powered Insurance App (Clamea)
-*   **System Design:** Real-time AI chat platform utilizing WebSockets for live conversation flow, social auth integration, cursor-based pagination, and Celery tasks for automated reminders.
-*   **Stack:** `Django` • `Channels` • `WebSockets` • `Celery` • `Redis` • `PostgreSQL`
+#### 🧠 AI Powered Insurance Platform (Clamea)
+*   **Overview:** Freemium platform running real-time AI agents, secured with custom API throttling, social logins, and Celery background task processing.
+*   **Stack:** `Django` • `Django Channels` • `WebSockets` • `Celery` • `Redis` • `PostgreSQL`
 
-#### 📂 Eat At Home (Nutrition Analytics)
-*   **System Design:** Financial data integration via Plaid API, real-time photo analysis through AI microservices, and local memory caching layers for fast response deliveries.
-*   **Stack:** `Django` • `DRF` • `Plaid API` • `Redis` • `PostgreSQL` • `AWS`
-
----
-
-### 🧠 Problem Solving & DSA
-I continuously refine my analytical thinking and algorithmic speed:
-*   **600+ Problems Solved** across online judges.
-*   **Profiles:** [LeetCode](https://leetcode.com/nadeemmaahmud/) • [Codeforces](https://codeforces.com/profile/nadeemmaahmud/) • [CodeChef](https://www.codechef.com/users/nadeemmaahmud/) • [HackerRank](https://www.hackerrank.com/nadeemmaahmud/) • [InterviewBit](https://www.interviewbit.com/profile/nadeemmaahmud/)
+#### 🥗 Eat At Home (Nutrition Analytics)
+*   **Overview:** Ledger transactions parsing through Plaid API integration, food photo computer-vision classification, and custom DB index optimization.
+*   **Stack:** `Django` • `DRF` • `Plaid API` • `Redis Caching` • `PostgreSQL` • `AWS`
 
 ---
 
-### 📊 GitHub Insights
+### 🏆 DSA & Problem Solving
+I am deeply passionate about competitive programming and optimizing algorithms:
+*   **600+ Problems Solved** across online platforms.
+*   **CodeChef:** Secured **38th place** globally in a weekly contest.
+*   **Competitive Profiles:** [LeetCode](https://leetcode.com/nadeemmaahmud/) • [Codeforces](https://codeforces.com/profile/nadeemmaahmud/) • [CodeChef](https://www.codechef.com/users/nadeemmaahmud/) • [HackerRank](https://www.hackerrank.com/nadeemmaahmud/) • [InterviewBit](https://www.interviewbit.com/profile/nadeemmaahmud/)
+
+---
+
+### 📈 GitHub Insights
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=nadeemmaahmud&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
@@ -80,5 +52,7 @@ I continuously refine my analytical thinking and algorithmic speed:
 
 ---
 
-### 🔗 Connect
-*   [LinkedIn](https://linkedin.com/in/nadeemmaahmud) • [Portfolio Website](https://nadeemmaahmud.vercel.app/) • [Email](mailto:nadeemmaahmud.cse@gmail.com)
+### ✉️ Connect with me
+*   **LinkedIn:** [/in/nadeemmaahmud](https://linkedin.com/in/nadeemmaahmud)
+*   **Email:** [nadeemmaahmud.cse@gmail.com](mailto:nadeemmaahmud.cse@gmail.com)
+*   **Portfolio:** [nadeemmaahmud.vercel.app](https://nadeemmaahmud.vercel.app/)
