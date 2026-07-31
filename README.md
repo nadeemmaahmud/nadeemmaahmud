@@ -32,27 +32,54 @@ I am a **Backend Developer** based in Dhaka, currently engineering highly scalab
 
 ## 🛠️ Tech Stack & Arsenal
 
-<table align="center" style="border: none;">
-  <tr style="border: none;">
-    <td align="center" width="33%" style="border: none;">
-      <h3>Backend & Logic</h3>
-      <img src="https://skillicons.dev/icons?i=python,django,nodejs,js" /><br>
-      <i>Python, Django, DRF, JavaScript</i>
-    </td>
-    <td align="center" width="33%" style="border: none;">
-      <h3>Databases & Caching</h3>
-      <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis" /><br>
-      <i>PostgreSQL, MySQL, Redis</i>
-    </td>
-    <td align="center" width="33%" style="border: none;">
-      <h3>DevOps & Cloud</h3>
-      <img src="https://skillicons.dev/icons?i=docker,aws,linux,git" /><br>
-      <i>Docker, AWS (EC2), Linux, Git</i>
-    </td>
-  </tr>
-</table>
+**Backend Engineering**
+<br>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Django REST Framework](https://img.shields.io/badge/Django_REST-a30000?style=for-the-badge&logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-*(I also love tinkering with modern frontends using React, Tailwind, and Vite to bring full-stack ideas to life!)*
+<br/>
+
+**Databases & Caching**
+<br>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) 
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+<br/>
+
+**DevOps, Cloud & Architecture**
+<br>
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+
+<br/>
+
+**Frontend (Just for fun!)**
+<br>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+---
+
+## 🧠 Competitive Programming
+
+I actively participate in algorithmic challenges to keep my problem-solving skills sharp. With **600+ problems solved**, here is where you can find me:
+
+<a href="https://leetcode.com/nadeemmaahmud" target="_blank">
+  <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode">
+</a>
+<a href="https://codeforces.com/profile/nadeemmaahmud" target="_blank">
+  <img src="https://img.shields.io/badge/-Codeforces-1F8ACB?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces">
+</a>
+<a href="https://www.codechef.com/users/nadeemmaahmud" target="_blank">
+  <img src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" alt="CodeChef">
+</a>
 
 ---
 
@@ -102,11 +129,18 @@ A comprehensive pet marketplace with buyer/seller listings, auctions, and vet sc
 
 ---
 
-## 📊 Code & Contributions
+## 🤝 Let's Connect!
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nadeemmaahmud&show_icons=true&hide_border=true&title_color=1A5F7A&icon_color=1A5F7A&bg_color=00000000" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nadeemmaahmud&hide_border=true&title_color=1A5F7A&icon_color=1A5F7A&bg_color=00000000" alt="GitHub Streak" width="48%" />
+  <a href="https://www.linkedin.com/in/nadeemmaahmud/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://nadeemmaahmud.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:nadeemmaahmud.cse@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </div>
 
 <br/>
