@@ -1,75 +1,129 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=1A5F7A&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Nadim+Mahmud+👋;Python+%26+Django+Specialist;Building+Scalable+Backend+Systems;Competitive+Programmer+(600%2B+Solved)" alt="Typing SVG" />
-  
-  <p align="center">
-    <b>Backend Developer</b> | <b>System Architect</b> | <b>Problem Solver</b>
-  </p>
-  
-  <p align="center">
-    <a href="https://nadeemmaahmud.vercel.app/" target="_blank">
-      <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-    </a>
-    <a href="https://www.linkedin.com/in/nadeemmaahmud/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="mailto:nadeemmaahmud.cse@gmail.com">
-      <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-  </p>
+  <h1>Hi, I'm Nadim Mahmud 👋</h1>
+  <p>Backend Developer | Python & Django Specialist</p>
 </div>
 
 ---
 
-## 👨‍💻 About Me & My Philosophy
+## 👨‍💻 About Me
 
-I am a **Backend Developer** based in Dhaka, currently engineering highly scalable solutions at **Join Venture AI**. While my core strength lies in **Python, Django, and PostgreSQL**, I am deeply passionate about building the *invisible engines* that power modern web applications—from complex AI microservices to real-time WebSockets.
-
-*   💡 **What I do:** Architect secure REST APIs, optimize database schemas, and manage asynchronous workflows.
-*   🚀 **My Focus:** API Caching (Redis), Rate Limiting/Throttling, and zero-downtime CI/CD deployments.
-*   🧠 **The Mindset:** With over **600+ algorithms solved** on platforms like Codeforces and LeetCode, I treat every backend bottleneck as a puzzle waiting for an `O(1)` solution.
+- 🔭 Currently working as a **Backend Developer** at Join Venture AI in Dhaka.
+- 💡 Specializing in **Python, Django, Django REST Framework, and PostgreSQL**.
+- ⚙️ Focused on **RESTful APIs, WebSocket, Caching, and Async Background Tasks**.
+- 🌍 Delivered **4 Live Projects** for clients across Sweden, USA, Australia, and KSA.
 
 ---
 
-## 🛠️ Tech Stack & Arsenal
+## 🛠️ Technical Skills
 
-**Backend Engineering**
+**Languages**
 <br>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Django REST Framework](https://img.shields.io/badge/Django_REST-a30000?style=for-the-badge&logo=django&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 <br/>
 
-**Databases & Caching**
+**Frameworks & Libraries**
+<br>
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Django REST Framework](https://img.shields.io/badge/Django_REST-a30000?style=for-the-badge&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+
+<br/>
+
+**Design & Styling**
+<br>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+<br/>
+
+**Databases**
 <br>
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+
+<br/>
+
+**Brokers & Cache**
+<br>
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-<br/>
-
-**DevOps, Cloud & Architecture**
-<br>
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 
 <br/>
 
-**Frontend (Just for fun!)**
+**Backend & Architecture**
 <br>
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![RESTful API](https://img.shields.io/badge/RESTful_API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![JWT & RBAC](https://img.shields.io/badge/JWT_&_RBAC-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![API Caching](https://img.shields.io/badge/API_Caching-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Throttling](https://img.shields.io/badge/Throttling-4B32C3?style=for-the-badge)
+![Asynchronous Programming](https://img.shields.io/badge/Async_Programming-37814A?style=for-the-badge)
+![AI Microservices](https://img.shields.io/badge/AI_Microservices-FF9900?style=for-the-badge)
+![System Optimization](https://img.shields.io/badge/System_Optimization-1F8ACB?style=for-the-badge)
+
+<br/>
+
+**Tools & DevOps**
+<br>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VPS](https://img.shields.io/badge/VPS-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI_/_CD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
-## 🧠 Competitive Programming
+## 🚀 Projects (International Clients)
 
-I actively participate in algorithmic challenges to keep my problem-solving skills sharp. With **600+ problems solved**, here is where you can find me:
+<details>
+<summary><b>🛡️ Clamea — AI Powered Insurance App</b> | 🇸🇪 Swedish Client</summary>
+<br/>
+Freemium insurance platform featuring a real-time AI chatbot via WebSocket, Firebase social auth, JWT authentication with API throttling, cursor-based pagination, and automated weekly claim reminders via Celery/Redis.
+<br><br>
+<b>Stack:</b> Django, DRF, WebSocket, AI Microservice, Celery, Redis, API Throttling, Firebase, PostgreSQL.
+</details>
+
+<details>
+<summary><b>🍽️ Eat At Home — Nutrition Analytics</b> | 🇺🇸 US Client</summary>
+<br/>
+Meal tracking and nutrition analytics platform integrating Plaid API for bank transactions. Includes an AI microservice for food photo analysis, with Redis caching to significantly reduce API latency.
+<br><br>
+<b>Stack:</b> Django, DRF, Plaid API, PostgreSQL, AI Microservice, Redis Caching, Celery, Firebase, AWS EC2.
+</details>
+
+<details>
+<summary><b>🤖 RnD Taxbot — Tax Automation</b> | 🇦🇺 Australian Client</summary>
+<br/>
+Tax rebate automation platform with an AI-powered multi-turn WebSocket interview flow. Features secure document access control and optimized PostgreSQL schemas for complex multi-stage approval workflows.
+<br><br>
+<b>Stack:</b> Django, DRF, WebSocket, AI Microservice, Celery, Redis, PostgreSQL, RBAC.
+</details>
+
+<details>
+<summary><b>🐾 Animal Service — Pet E-commerce</b> | 🇸🇦 KSA Client</summary>
+<br/>
+Pet marketplace with listings, auctions, and vet bookings. Integrates Google Maps API for proximity-based transport matching, real-time push notifications, Telr payment, and Redis caching for high-traffic marketplace queries.
+<br><br>
+<b>Stack:</b> Django, DRF, Celery, Redis Caching, RabbitMQ, Telr Payment, Google Maps API, PostgreSQL, Docker.
+</details>
+
+---
+
+## 🏆 Key Achievements & Problem Solving
+
+*   **600+ Problems Solved** across Codeforces, LeetCode, HackerRank, CodeChef, and InterviewBit.
+*   **38th Position** in CodeChef Weekly (All problems solved, June 2025).
+*   **11th Position** in Inter Polytechnic Programming Contest at IUBAT.
+
+<br>
 
 <a href="https://leetcode.com/nadeemmaahmud" target="_blank">
   <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode">
@@ -77,73 +131,12 @@ I actively participate in algorithmic challenges to keep my problem-solving skil
 <a href="https://codeforces.com/profile/nadeemmaahmud" target="_blank">
   <img src="https://img.shields.io/badge/-Codeforces-1F8ACB?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces">
 </a>
+<a href="https://www.hackerrank.com/nadeemmaahmud" target="_blank">
+  <img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank">
+</a>
 <a href="https://www.codechef.com/users/nadeemmaahmud" target="_blank">
   <img src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" alt="CodeChef">
 </a>
-
----
-
-## 🚀 Featured Engineering Projects
-
-Here are some of the complex backend systems I've built. For live demos and UI, check out my [Portfolio](https://nadeemmaahmud.vercel.app/).
-
-<details>
-<summary><b>🛡️ AI Powered Insurance App (Freemium Platform)</b></summary>
-<br/>
-A scalable insurance management platform featuring a real-time AI chatbot.
-<ul>
-  <li><b>Architecture:</b> Django, WebSockets, Celery, Redis, PostgreSQL.</li>
-  <li><b>Key Features:</b> Internal AI microservice routing, JWT authentication with <b>API Throttling</b>, and Celery/Redis background tasks for automated Firebase push notifications.</li>
-</ul>
-</details>
-
-<details>
-<summary><b>🍽️ Eat At Home (FinTech & Nutrition)</b></summary>
-<br/>
-A meal tracking and analytics platform integrating real bank transaction histories via the Plaid API.
-<ul>
-  <li><b>Architecture:</b> Django ORM, PostgreSQL, Redis, Firebase Auth.</li>
-  <li><b>Key Features:</b> Integrated an AI microservice to analyze food photos, utilizing <b>Redis Caching</b> to drastically reduce external AI response latency.</li>
-</ul>
-</details>
-
-<details>
-<summary><b>🤖 RnD Taxbot (Automation Flow)</b></summary>
-<br/>
-A tax rebate automation platform with a multi-turn AI interview flow.
-<ul>
-  <li><b>Architecture:</b> Django, WebSockets, Redis, PostgreSQL.</li>
-  <li><b>Key Features:</b> Engineered a complex multi-stage approval workflow with strict Role-Based Access Control (RBAC) and async state management via Redis.</li>
-</ul>
-</details>
-
-<details>
-<summary><b>🐾 Animal Service (Marketplace & Booking)</b></summary>
-<br/>
-A comprehensive pet marketplace with buyer/seller listings, auctions, and vet scheduling.
-<ul>
-  <li><b>Architecture:</b> Django, Telr Payments, Google Maps API, WebSockets.</li>
-  <li><b>Key Features:</b> Implemented <b>Redis caching</b> for high-traffic marketplace queries, real-time 1-on-1 chat, and proximity-based transport driver matching.</li>
-</ul>
-</details>
-
----
-
-## 🤝 Let's Connect!
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/nadeemmaahmud/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://nadeemmaahmud.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="mailto:nadeemmaahmud.cse@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</div>
-
-<br/>
-<p align="center">
-  <i>"Writing code that works is easy. Writing code that scales is an art."</i>
-</p>
+<a href="https://www.interviewbit.com/profile/nadeemmaahmud" target="_blank">
+  <img src="https://img.shields.io/badge/-InterviewBit-000000?style=for-the-badge&logo=Coding-Ninjas&logoColor=white" alt="InterviewBit">
+</a>
