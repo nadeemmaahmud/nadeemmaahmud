@@ -71,10 +71,8 @@ I am a backend-focused engineer specializing in Python and the Django ecosystem.
 
 ### 📊 GitHub Activity & Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=nadeemmaahmud&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadeemmaahmud&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nadeemmaahmud&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/nadeemmaahmud)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nadeemmaahmud&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/nadeemmaahmud)
 
 ---
 
