@@ -1,5 +1,5 @@
 # Nadim Mahmud
-**Backend Software Engineer** | Dhaka, Bangladesh
+**Software Engineer** | Dhaka, Bangladesh
 
 I am a backend-focused engineer specializing in Python and the Django ecosystem. I build secure, high-performance APIs, manage database schemas, and orchestrate asynchronous backend systems. With hands-on experience in Django REST Framework, Redis, Celery, and WebSockets, I translate complex requirements into clean, scalable server-side systems.
 
@@ -18,7 +18,7 @@ I am a backend-focused engineer specializing in Python and the Django ecosystem.
 
 ### 💼 Professional Experience
 
-**Jr. Backend Developer** | *Join Venture AI* | *Oct 2025 – Present*
+**Jr. Backend Developer** | *Confidential Tech Startup* | *Oct 2025 – Present*
 *   Designed, developed, and maintained scalable RESTful backend services using Python and Django REST Framework for AI-powered business applications.
 *   Integrated third-party APIs and internal AI microservices; implemented JWT-based authentication and role-based access control (RBAC).
 *   Optimized system performance, scalability, and reliability through Redis-based API caching, reducing average API response latency and improving overall throughput.
