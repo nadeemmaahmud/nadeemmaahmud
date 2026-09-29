@@ -7,43 +7,45 @@ I am a backend-focused engineer specializing in Python and the Django ecosystem.
 
 ### 💻 Technical Skills
 
-*   **Languages:** Python, JavaScript
-*   **Frameworks & Libraries:** Django, Django REST Framework (DRF), React, Redux Toolkit
-*   **Databases & Caching:** PostgreSQL, MySQL, Redis (API & Query Caching)
-*   **Brokers & Task Queues:** Celery, RabbitMQ
-*   **Architecture & Security:** RESTful APIs, WebSockets (Django Channels), JWT, RBAC, API Throttling/Rate Limiting
-*   **DevOps & Tools:** Git, Docker, Linux/VPS, AWS (EC2, S3), CI/CD (GitHub Actions), Postman, Pytest
+* **Languages:** Python, JavaScript
+* **Frameworks:** Django, DRF, React, Redux
+* **Frontend & Styling:** HTML, CSS, Tailwind, Bootstrap
+* **Databases:** PostgreSQL, MySQL, SQLite
+* **Brokers & Cache:** Redis, RabbitMQ, Celery
+* **System Architecture & Design:** Microservices, Event-Driven Architecture, Message Brokers, Pub/Sub, CQRS, API Gateway, System Optimization
+* **Backend Concepts:** RESTful API, WebSocket, Server-Sent Events (SSE), JWT & RBAC, API Caching, Throttling, Asynchronous Programming, AI Microservices
+* **Tools & Testing:** Git, Docker, VPS, AWS, CI/CD, Postman, Pytest
 
 ---
 
 ### 💼 Professional Experience
 
-**Jr. Backend Developer** | *Confidential Tech Startup* | *Oct 2025 – Present*
-*   Designed, developed, and maintained scalable RESTful backend services using Python and Django REST Framework for AI-powered business applications.
-*   Integrated third-party APIs and internal AI microservices; implemented JWT-based authentication and role-based access control (RBAC).
-*   Optimized system performance, scalability, and reliability through Redis-based API caching, reducing average API response latency and improving overall throughput.
-*   Achieved 85% code coverage by writing comprehensive unit and integration tests using Pytest, adhering to Test-Driven Development (TDD) principles to ensure the stability of critical backend processes.
-*   Set up automated CI/CD pipelines using GitHub Actions and collaborated with an 11-person cross-functional engineering team for seamless Docker and AWS-based cloud deployments, ensuring 99.9% application uptime.
+**Software Engineer** | *Confidential Tech Startup* | *Oct 2025 – Present*
+* Designed, developed, and maintained scalable RESTful backend services using Python and Django REST Framework for AI-powered business applications.
+* Integrated third-party APIs and internal AI microservices; implemented JWT-based authentication and role-based access control (RBAC).
+* Optimized system performance, scalability, and reliability through Redis-based API caching, reducing average API response latency and improving overall throughput.
+* Achieved 85% code coverage by writing comprehensive unit and integration tests using Pytest, adhering to Test-Driven Development (TDD) principles to ensure the stability of critical backend processes.
+* Set up automated CI/CD pipelines using GitHub Actions and collaborated with an 11-person cross-functional engineering team for seamless Docker and AWS-based cloud deployments, ensuring 99.9% application uptime.
 
 **Team Leader** | *Vcube Soft and Tech Limited* | *Jun 2019 – Oct 2024*
-*   Promoted from Operator to Project Quality Checker, Mentor, and Team Leader through consistent performance.
-*   Mentored and led a cross-functional team of 6 members, maintaining productive communication across remote and in-office environments and significantly reducing onboarding time for new hires.
+* Promoted from Operator to Project Quality Checker, Mentor, and Team Leader through consistent performance.
+* Mentored and led a cross-functional team of 6 members, maintaining productive communication across remote and in-office environments and significantly reducing onboarding time for new hires.
 
 ---
 
 ### 🚀 Highlighted Projects
 
-*   **AI Powered Insurance App (Clamea)**
-    *   Scalable insurance platform supporting 10,000+ potential users featuring a real-time AI chat over WebSockets, social authentication, JWT-based authentication with API throttling, and weekly reminders via Celery/Redis.
-    *   *Tech Stack:* Django, Django Channels, WebSockets, Celery, Redis, Firebase, PostgreSQL.
+* **AI Powered Insurance App (Clamea)**
+  * Scalable insurance platform supporting 10,000+ potential users featuring a real-time AI chat over WebSockets, social authentication, JWT-based authentication with API throttling, and weekly reminders via Celery/Redis.
+  * *Tech Stack:* Django, Django Channels, WebSockets, Celery, Redis, Firebase, PostgreSQL.
 
-*   **Animal Service (Pet E-commerce)**
-    *   Pet marketplace built for 5,000+ daily active users. Integrates Google Maps API for proximity-based transport matching, real-time push notifications, and Telr payment. Implemented Redis caching, improving page load times by 40%.
-    *   *Tech Stack:* Django, DRF, Celery, Redis, RabbitMQ, Telr Payment, Google Maps API, PostgreSQL.
+* **Animal Service (Pet E-commerce)**
+  * Pet marketplace built for 5,000+ daily active users. Integrates Google Maps API for proximity-based transport matching, real-time push notifications, and Telr payment. Implemented Redis caching, improving page load times by 40%.
+  * *Tech Stack:* Django, DRF, Celery, Redis, RabbitMQ, Telr Payment, Google Maps API, PostgreSQL.
 
-*   **Eat At Home (Nutrition Analytics)**
-    *   Meal tracking app integrating Plaid API for bank transactions, featuring food photo AI analysis and Redis caching for AI responses decreasing latency by over 50%.
-    *   *Tech Stack:* Django, DRF, Plaid API, Redis, PostgreSQL, AWS.
+* **Eat At Home (Nutrition Analytics)**
+  * Meal tracking app integrating Plaid API for bank transactions, featuring food photo AI analysis and Redis caching for AI responses decreasing latency by over 50%.
+  * *Tech Stack:* Django, DRF, Plaid API, Redis, PostgreSQL, AWS.
 
 ---
 
